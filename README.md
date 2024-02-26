@@ -1,3 +1,16 @@
-# Picture-in-picture
-Experience the convenience of Picture-in-Picture with this simple web application. This project allows users to select a media stream, typically their screen, and displays it within a resizable and movable Picture-in-Picture window. The intuitive interface includes a "Start" button to initiate Picture-in-Picture mode. Enjoy multitasking while keeping a small video window on top of other applications. Enhance your viewing experience with the Picture-in-Picture feature brought to you by this web application.
+# Picture-in-picture 🖥️
+Implement seamless Picture-In-Picture functionality with this handy web application! Easily select your media stream, whether it's your screen or a specific window, and enjoy the convenience of Picture-In-Picture mode. Built using HTML, CSS, and JavaScript, this project offers a user-friendly interface and smooth performance.
 
+Features:
+1.Allows users to select their media stream for Picture-In-Picture mode.
+2.Simple interface with a single button to start the Picture-In-Picture functionality.
+3.Responsive design for optimal viewing experience across devices.
+
+Technologies Used:
+HTML,
+CSS,
+JavaScript
+
+How to Use:
+Click the "Start" button to select your media stream.
+Enjoy the Picture-In-Picture mode seamlessly integrated into your browsing experience!
